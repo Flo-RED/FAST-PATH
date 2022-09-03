@@ -1,0 +1,119 @@
+............................. RED
+. . . . . . . . . . . . . . . . .
+[ RED ]
+red
+D:\[ RED ]
+. . . . . . . . . . . . . . . . .
+[ IMAGE ]
+image
+D:\[ RED ]\6 - [ IMAGE ]
+. . . . . . . . . . . . . . . . .
+[ VIDEO ]
+video
+D:\[ RED ]\5 - [ VIDEO ]
+. . . . . . . . . . . . . . . . .
+[ AUDIO ]
+audio
+D:\[ RED ]\4 - [ AUDIO ]
+. . . . . . . . . . . . . . . . .
+[ CODE ]
+code
+D:\[ RED ]\3 - [ CODE ]
+. . . . . . . . . . . . . . . . .
+[ FONT ]
+font
+D:\[ RED ]\2 - [ FONT ]
+. . . . . . . . . . . . . . . . .
+[ SAVE ]
+save
+D:\[ RED ]\1 - [ SAVE ]
+. . . . . . . . . . . . . . . . .
+[ OTHER ]
+other
+D:\[ RED ]\0 - [ OTHER ]
+.................................
+
+
+
+
+........................... OTHER
+. . . . . . . . . . . . . . . . .
+X Folder
+xf -
+D:\[ RED ]\4 - [ AUDIO ]\MSP - 1.16\item\plant
+. . . . . . . . . . . . . . . . .
+X Mine imator
+xm -
+D:\[ RED ]\4 - [ AUDIO ]\MSP - 1.16\item\plant\Mine-imator\Mine-imator.exe
+. . . . . . . . . . . . . . . . .
+Data
+data
+C:\\Users\iIiAh\Desktop\FAST-PATH\data.txt
+. . . . . . . . . . . . . . . . .
+Desktop
+desk
+C:\Users\iIiAh\Desktop
+. . . . . . . . . . . . . . . . .
+[ MEMORIES ]
+mem
+D:\[ RED ]\1 - [ SAVE ]\[ MEMORIES ]
+. . . . . . . . . . . . . . . . .
+[ MEMORIES ]:[ NEW ]
+new
+D:\[ RED ]\1 - [ SAVE ]\[ MEMORIES ]\[ NEW - 2022 ]
+. . . . . . . . . . . . . . . . .
+Games
+game
+D:\Games
+. . . . . . . . . . . . . . . . .
+Downloads
+d
+D:\Downloads
+. . . . . . . . . . . . . . . . .
+Music
+music
+D:\[ RED ]\4 - [ AUDIO ]\[ MUSIC ]\[ MUSIC ]
+.................................
+
+
+
+
+............................. WEB
+. . . . . . . . . . . . . . . . w
+Google
+g
+google.com
+/search?q=
+. . . . . . . . . . . . . . . . w
+Instagram
+ins
+instagram.com/
+
+. . . . . . . . . . . . . . . . w
+Youtube
+y
+youtube.com
+/results?search_query=
+.................................
+
+
+
+
+
+
+
+
+................................. Tutorial ::
+
+----------- file / folder:
+ . . . . . . . . . . . . . . . . .
+Name to print
+The shortcut
+The path
+
+--------------------- web:
+ . . . . . . . . . . . . . . . . w
+Name to print
+The shortcut
+The link
+The Search link
