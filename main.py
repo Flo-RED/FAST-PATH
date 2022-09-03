@@ -22,6 +22,7 @@ for y in range(len(row)):
 
     elif row[y] == ". . . . . . . . . . . . . . . . w":
         web_data.append([row[y + 1], row[y + 2].split()[0], row[y + 3], row[y + 4]])
+        
 # :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::: main loop
 while True:
 
