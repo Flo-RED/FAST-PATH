@@ -1,6 +1,4 @@
-
-
-
+<< Type your shortcuts here
 
 
 
@@ -21,3 +19,19 @@ Name to print
 The shortcut
 The link
 The Search link
+
+
+................................. Examples ::
+
+----------- file / folder:
+ . . . . . . . . . . . . . . . . .
+Downloads
+d
+D:\Downloads
+
+--------------------- web:
+ . . . . . . . . . . . . . . . . w
+Google
+g
+google.com
+/search?q=
